@@ -1,1 +1,4 @@
-
+P001	Teclado Corsai K70 RGB MK.2	240.0
+P002	Aud¡fono gaming Banshee GXB-HG8960	67.0
+P003	Teclado SLIM STAR C130 GENIUS	53.0
+P004	C mara Web 1080P ZB206 HIGH	163.0
