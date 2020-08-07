@@ -1,0 +1,5 @@
+P001	Poleras	23.0
+P002	Alpaca	45.0
+P003	Luisa	12.0
+P004	Poleron	32.0
+P005	Teclado Corsai K70 RGB MK.2	245.0
